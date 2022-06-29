@@ -1,0 +1,23 @@
+{
+  "name": "shaggyer-cmps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHAGGYER/shaggyer-cmps.git"
+  },
+  "keywords": [],
+  "author": "Mikolaj Marciniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHAGGYER/shaggyer-cmps/issues"
+  },
+  "homepage": "https://github.com/SHAGGYER/shaggyer-cmps#readme",
+  "dependencies": {
+    "styled-components": "^5.3.5"
+  }
+}
